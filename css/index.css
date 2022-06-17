@@ -6,7 +6,7 @@ img{
 header>div,article>div{
     width:1440px;
     margin: 0 auto;
-    background-color:pink;
+    /* background-color:pink; */
 }
 article>div{}
 header{padding:40px 30px;
@@ -21,7 +21,7 @@ header>div>h1>a{
     margin: 0 auto; 
 }
 
-/* 네비게이션 언더바 */
+
 nav{}
 nav>ul{text-align: center;}
 nav>ul>li{display: inline-block;
@@ -51,7 +51,7 @@ color:#fff;}
 article.box01>h2>span{display: block;}
 article.box01>h2>span:first-child{margin-bottom: 58px;;}
 
-article.box01>ul{position: absolute;
+article.box01>ul{
 width: 400%;
 height:100%;
 bottom: 20px;
@@ -117,5 +117,73 @@ article.box02>div>h2{
 }
 article.box02>div>h2>span{}
 
-article.box02>div>p{}
+article.box02>div>p{
+    font: 18px 'Nunito Sans';
+    margin-top: 123px;
+}
 
+article.box02>div>a{}
+
+article.box03{padding: 67px 0 47px;
+    /* height:622px; */}
+
+article.box03>h2{
+    margin-bottom: 65px;
+    text-align: center;
+    font: 34px 'Nunito Sans';
+    color:#243c84;}
+
+article.box03>div{display: flex;
+    flex-wrap:wrap;
+justify-content: space-between;}
+article.box03>div>figure{width: 242px;}
+article.box03>div>figure>img{width: 100%;
+margin-bottom: 20px;}
+article.box03>div>figure>figcaption{text-align:center;
+font: 20px 'Nunito Sans';}
+article.box03>p{
+    margin-top: 10px;
+    text-align: center;
+    font: 28px 'Nunito Sans';
+    color:#243c84;}
+
+article.box04{
+    height: 460px;
+    background: #063a7c url('../image/map.png') no-repeat right bottom;}
+article.box04>div{
+    width: 1266px;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    align-content: center;
+    flex-wrap: wrap;
+    }
+
+article.box04>div>div{width: 283px;
+padding: 27px 40px;
+
+text-align: center;
+color: #fff;
+align-content: center;
+justify-content: flex-start;
+}
+
+article.box04>div>div>h2{margin-bottom: 30px;}
+
+footer{background-color: #4a4444;
+padding: 10px 0 23px;
+color: #fff;}
+
+footer>dl{
+text-align: center;}
+
+footer>dl>dt{margin-bottom: 22px;
+width: 210px;
+display:block;
+margin: 0 auto;}
+
+footer>dl>dd>dl>dt{display: inline;
+}
+footer>dl>dd>dl>dd{display: inline;}
