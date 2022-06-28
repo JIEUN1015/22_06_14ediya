@@ -1,0 +1,116 @@
+@charset "utf-8";
+img{
+    max-width:100%;
+}
+/* 공통 */
+header>div,section>div{
+    width:1440px;
+    margin: 0 auto;
+}
+
+header{padding:40px 30px;
+}
+
+header>div>h1{
+margin-bottom:27px;
+}
+header>div>h1>a{
+    width:272px;
+    display:block;
+    margin: 0 auto; 
+}
+
+nav{}
+nav>ul{text-align: center;}
+nav>ul>li{display: inline-block;
+    margin-left: 84px;
+}
+nav>ul>li>a{
+    font-size: 17px;
+    color: black;
+}
+
+/* section */
+section.box01{background-color: #cbe6fb;
+height: 622px;}
+section.box01>h2{position: relative;
+    padding-top: 54px;
+    margin-bottom:64px;
+text-align: center;
+font: 34px 'Nunito Sans';
+color: #253b82;}
+section.box01>div#show{
+width:1524px;
+margin: 0 auto;
+overflow:hiddne;
+position: relative;
+}
+section.box01 div#all{
+    width:3048px;
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: space-between; */
+}
+section.box01 div>figure{
+    width: 297px;
+    margin:0 42px;
+    border: 1px solid #fff;
+    box-sizing:border-box;}
+section.box01 div>figure>img{width: 100%;
+margin-bottom: 56px;}
+section.box01 div>figure>figcaption{text-align: center;
+font: 13px 'Nunito Sans';}
+section.box01>p.prev{position:absolute;
+top: 40%;
+left: 95px;}
+p.next{position: absolute;
+top: 40%;
+right: 95px;}
+
+section.box02{padding-top: 62px;}
+section.box02>h3.hide{visibility: hidden;}
+section.box02>ul{margin: 0 auto;
+    text-align: center;
+width: 714px;}
+section.box02>ul>li{display:inline-block;
+text-align: center;
+margin: 0 40px;
+/* border: 1px solid #253b82; */
+margin-top: 12px;
+font: 14px 'Nunito Sans';
+width: 25%;
+}
+
+section.box02>ul>li>a{display: block;
+    line-height: 12px;
+    }
+
+
+section.box02>div#show02{
+    width: 1460px;
+    margin: 0 auto;
+    
+}
+section.box02 div#all02{
+    width: 2920px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+section.box02 div>figure{
+    width: 335px;
+    margin: 0 15px;
+    
+}
+section.box02 div>figure>img{width: 100%;
+    padding-bottom: 40px;
+    border: 1px solid #253b82;
+    box-sizing: border-box;}
+
+section.box02 div>figure>figcaption{text-align:left;
+        font: 13px 'Nunito Sans';
+    margin-bottom: 95px;}
+
+
+
+

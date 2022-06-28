@@ -1,0 +1,73 @@
+{   name:'originaltea',
+    title:'HOT샤인히비스커스',
+    price:'3200won',
+    pic:'../image/fruit/IMG_1647323154740.png'
+},
+{   name:'originaltea',
+    title:'ICED샤인히비스커스',
+    price:'3200won',
+    pic:'../image/fruit/IMG_1647323154740.png'
+},
+{   name:'originaltea',
+    title:'HOT스프링캐모마일',
+    price:'3200won',
+    pic:'../image/fruit/IMG_1647323154740.png'
+},
+{   name:'originaltea',
+    title:'ICED스프링캐모마일',
+    price:'3200won',
+    pic:'../image/fruit/IMG_1647323154740.png'
+},
+{   name:'originaltea',
+    title:'HOT퓨어페퍼민트',
+    price:'3200won',
+    pic:'../image/fruit/IMG_1647323154740.png'
+},
+{   name:'originaltea',
+    title:'ICED퓨어페퍼민트',
+    price:'3200won',
+    pic:'../image/fruit/IMG_1647323154740.png'
+},
+{   name:'originaltea',
+    title:'HOT피치얼그레이',
+    price:'3200won',
+    pic:'../image/fruit/IMG_1647323154740.png'
+},
+{   name:'originaltea',
+    title:'ICED피치얼그레이',
+    price:'3200won',
+    pic:'../image/fruit/IMG_1647323154740.png'
+},
+{   name:'fruittea',
+    title:'석류애플라임',
+    price:'3200won',
+    pic:'../image/fruit/IMG_1647323154740.png'
+},
+{   name:'fruittea',
+    title:'자몽네이블오렌지',
+    price:'3200won',
+    pic:'../image/fruit/IMG_1647323154740.png'
+},
+{   name:'fruittea',
+    title:'유자피나콜라다',
+    price:'3200won',
+    pic:'../image/fruit/IMG_1647323154740.png'
+},
+{   name:'fruittea',
+    title:'제주청귤블라썸',
+    price:'3200won',
+    pic:'../image/fruit/IMG_1647323154740.png'
+},
+{   name:'milktea',
+    title:'밀크티',
+    price:'3200won',
+    pic:'../image/fruit/IMG_1647323154740.png'
+},
+{   name:'MD',
+    title:'머그컵',
+    price:'5000won',
+    pic:'../image/fruit/IMG_1647323154740.png'
+}
+
+
+
